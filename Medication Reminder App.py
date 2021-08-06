@@ -8,7 +8,7 @@ Author: Yedidia Software
 
 This is an app that will remind my nanny about her medication
 
-Firstly, she will enter her first name and surname
+Firstly, Nanny will enter her first name and surname
 Secondly, she will enter the name of the medication
 Thirdly, she will assume either it is pills or sirop or other
 Fourthly, she will enter the posology as when to take the medication as well as the frequency
